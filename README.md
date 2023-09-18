@@ -1,19 +1,19 @@
-# Auctions Library
+# Auctions Library - Fall 2023
 
 **Introduction:**
 
-As part of the INFO 7500 Coursework for this semester, you are tasked with designing and developing a comprehensive library of auctions. Whether you are already familiar with Web 3 or are just beginning to explore its concepts, this document will serve as your guide, providing all the instructions and resources you need to successfully complete a series of assignments.
+Welcome to the INFO 7500 Coursework for Fall 2023, led by **Professor Suhabe Bugrara** at **Northeastern University**! As part of this course, you will embark on an exciting journey to design and develop a comprehensive library of auctions. Whether you're already well-versed in Web 3 or just starting to explore its concepts, this document will serve as your indispensable guide, providing all the necessary instructions and resources to ensure your success in completing this series of assignments.
 
 ## Assignment Overview
 
 In this coursework, you will build decentralized applications (dApps) that encompass different types of auctions widely used in the industry. Specifically, you will delve into:
 
-1. Sealed Bid Auctions
-2. Sneaky Bid Auctions
+1. **Sealed Bid Auctions**
+2. **Sneaky Bid Auctions**
 
-The project consists of multiple milestones, each due weekly until the final class of the semester. These milestones are designed to progressively build upon the work accomplished in previous stages. Please note that you have a total of seven late days at your disposal, which can be utilized across all homework assignments during the semester.
+The project consists of multiple milestones, each due weekly until the final class of the semester. These milestones are designed to progressively build upon the work accomplished in previous stages. Please note that, as outlined in the syllabus, you have a total of seven late days at your disposal, which can be utilized across all homework assignments during the semester.
 
-Each milestone is due on the date specified in the table below. You should submit each completed milestone to Canvas as a link to your GitHub repository and a tagged commit with the corresponding version number.
+For each milestone, you are required to submit your completed work on the specified due date. Submissions should include a link to your GitHub repository and a tagged commit with the corresponding version number. Here's a breakdown of the milestones and their respective due dates:
 
 | Version # | Milestone                           | Due Date | % Final Grade | Submission  |
 | --------- | ----------------------------------- | -------- | ------------- | ----------- |
@@ -25,10 +25,10 @@ Each milestone is due on the date specified in the table below. You should submi
 | v6.0      | [Milestone 6 Name]                  | 10/      | 14%           | GitHub repo |
 | v7.0      | [Milestone 7 Name]                  | 10/      | 14%           | GitHub repo |
 
-Grading will be based on:
+Your grading will primarily depend on two key factors:
 
-- Writing sufficient test cases to achieve 100% line and 100% branch coverage on your Solidity code.
-- Having thorough expectations in each test case.
+1. **Test Coverage:** Ensure that your Solidity code includes sufficient test cases to achieve 100% line and 100% branch coverage.
+2. **Expectations in Test Cases:** Thoroughly outline your expectations within each test case.
 
 ## Resources
 
