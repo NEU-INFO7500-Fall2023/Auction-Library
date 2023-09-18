@@ -45,6 +45,7 @@ You can refer to the following reading materials and tools for guidance:
 - ERC721 EIP: [EIP-721](https://eips.ethereum.org/EIPS/eip-721)
 
 **Auctions:**
+Inspired by a16z blog posts and taken as reference. you can read them below
 
 - Sealed Bid Auctions [Code]
 - Sneaky Bid Auctions [Code]
