@@ -32,6 +32,7 @@ contract VickreyAuction {
         // =====================
         address highestBidder;
         uint64 index;
+        address erc20Token;
     }
 
     /// @param commitment The hash commitment of a bid value.
@@ -78,6 +79,7 @@ contract VickreyAuction {
     function createAuction(
         address tokenContract,
         uint256 tokenId,
+        address erc20Token,
         uint32 startTime,
         uint32 bidPeriod,
         uint32 revealPeriod,
