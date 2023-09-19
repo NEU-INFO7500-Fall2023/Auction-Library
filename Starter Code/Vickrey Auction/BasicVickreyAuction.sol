@@ -36,8 +36,8 @@ contract VickreyAuction {
         uint96 collateral;
     }
 
-    /// @notice A mapping storing auction parameters and state
-    mapping(address => mapping(uint256 => Auction)) public auctions;
+    /// @notice A mapping storing auction index and state
+    mapping(uint256 => Auction) public auctions;
 
     /// @notice A mapping storing bid commitments and records of collateral,
     ///         indexed by item ID, auction index,

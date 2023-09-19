@@ -36,19 +36,19 @@ You can refer to the following reading materials and tools for guidance:
 
 **Tools:**
 
-- Remix IDE
-- Foundry
-- Metamask
-- IPFS
-- OpenZeppelin contracts
+- Remix IDE(https://remix.ethereum.org/)
+- Foundry(https://book.getfoundry.sh/)
+- Metamask(https://metamask.io/)
+- IPFS(https://www.ipfs.com/)
+- OpenZeppelin contracts(https://www.openzeppelin.com/)
 - ERC20 EIP: [EIP-20](https://eips.ethereum.org/EIPS/eip-20)
 - ERC721 EIP: [EIP-721](https://eips.ethereum.org/EIPS/eip-721)
 
 **Auctions:**
 Inspired by a16z blog posts and taken as reference. you can read them below
 
-- Sealed Bid Auctions [Code]
-- Sneaky Bid Auctions [Code]
+- Sealed Bid Auctions [blog](https://a16zcrypto.com/posts/article/how-auction-theory-informs-implementations/)
+- Sneaky Bid Auctions [Code](https://a16zcrypto.com/posts/article/hidden-in-plain-sight-a-sneaky-solidity-implementation-of-a-sealed-bid-auction/)
 
 **Additional Reading:**
 
